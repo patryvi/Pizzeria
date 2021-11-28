@@ -6,8 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
         /*
-
-
 Vamos a crear un sistema gestor de reparto de pizzerías en una localidad.
 
 Crea la clase Pizza con los atributos y métodos necesarios. Sobre cada pizza se necesita saber el tamaño en pulgadas, el tipo –
@@ -64,12 +62,7 @@ Evita que la aplicación se quede colgada capturando y tratando los posibles err
                     break;
             }
         }while(!salir);
-
     }
-
-
-
-
 
     public static void mostrarMenu(){
         System.out.println("\n ---Menu---");
